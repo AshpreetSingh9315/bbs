@@ -84,7 +84,6 @@ tl.from('#page2 .box1 , #page2 .box12',{
         trigger : '#page2 .box1',
         start : 'top 70%',
         end: 'top 50%',
-        markers : true,
         scrub : 2,
     }
 })
